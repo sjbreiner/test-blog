@@ -20,10 +20,12 @@ article {
 
 .brand {
     margin-left: 0;
+    line-height: 1.5;
 }
 
-header {
-    margin: 5;
+header h1, h2 {
+    /* margin: 10; */
+    line-height: 1.25;
 }
 
 .brand {
@@ -38,4 +40,8 @@ nav.menu ul {
 header.brand hr {
     margin:auto;
     width:100%;
+}
+
+.nist-footer a {
+    background: #333;
 }
