@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>katex on ACT Blog</title>
-    <link>file:///home/spencer/docs/blog/blog-private/test-blog/categories/katex/</link>
+    <link>https://sjbreiner.github.io/test-blog/categories/katex/</link>
     <description>Recent content in katex on ACT Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Jul 2021 13:56:01 -0800</lastBuildDate>
     
-	<atom:link href="file:///home/spencer/docs/blog/blog-private/test-blog/categories/katex/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sjbreiner.github.io/test-blog/categories/katex/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>More math $\xi_{(even-in-the-title-!)}$</title>
-      <link>file:///home/spencer/docs/blog/blog-private/test-blog/post/more-maths/</link>
+      <link>https://sjbreiner.github.io/test-blog/post/more-maths/</link>
       <pubDate>Tue, 20 Jul 2021 13:56:01 -0800</pubDate>
       
-      <guid>file:///home/spencer/docs/blog/blog-private/test-blog/post/more-maths/</guid>
+      <guid>https://sjbreiner.github.io/test-blog/post/more-maths/</guid>
       <description>&lt;p&gt;A compilation of $\LaTeX$ formulas&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hugo-Tufte Features mod</title>
-      <link>file:///home/spencer/docs/blog/blog-private/test-blog/post/tufte-features/</link>
+      <link>https://sjbreiner.github.io/test-blog/post/tufte-features/</link>
       <pubDate>Sat, 20 Feb 2016 13:56:01 -0800</pubDate>
       
-      <guid>file:///home/spencer/docs/blog/blog-private/test-blog/post/tufte-features/</guid>
+      <guid>https://sjbreiner.github.io/test-blog/post/tufte-features/</guid>
       <description>&lt;p&gt;This is a quick demonstration post.  It serves as an example of the features
 of this theme.  One of them is $ \LaTeX $ via &lt;a href=&#34;https://katex.org/&#34;&gt;Katex&lt;/a&gt;.
 

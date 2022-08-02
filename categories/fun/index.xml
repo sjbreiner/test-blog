@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fun on ACT Blog</title>
-    <link>file:///home/spencer/docs/blog/blog-private/test-blog/categories/fun/</link>
+    <link>https://sjbreiner.github.io/test-blog/categories/fun/</link>
     <description>Recent content in fun on ACT Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Mar 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="file:///home/spencer/docs/blog/blog-private/test-blog/categories/fun/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sjbreiner.github.io/test-blog/categories/fun/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Just another sample post</title>
-      <link>file:///home/spencer/docs/blog/blog-private/test-blog/post/new/</link>
+      <link>https://sjbreiner.github.io/test-blog/post/new/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>file:///home/spencer/docs/blog/blog-private/test-blog/post/new/</guid>
+      <guid>https://sjbreiner.github.io/test-blog/post/new/</guid>
       <description>First Heading    Tables Are Cool     col 1 is left-aligned $1600   col 2 is centered $12   col 3 is right-aligned $1    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, consequatur aspernatur omnis iste. Voluptates, id inventore ea natus ab sed amet ipsa ratione sunt dignissimos. Soluta illum aliquid repellendus recusandae.
 Sub Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
