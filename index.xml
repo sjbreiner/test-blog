@@ -27,7 +27,13 @@
       
       <guid>https://sjbreiner.github.io/test-blog/post/tufte-features/</guid>
       <description>&lt;p&gt;This is a quick demonstration post.  It serves as an example of the features
-of this theme.  One of them is $ \LaTeX $ via &lt;a href=&#34;https://katex.org/&#34;&gt;Katex&lt;/a&gt;.
+of this theme.  One of them is $ \LaTeX $ via &lt;a 
+href=&#34;https://katex.org/&#34;
+
+ rel=&#34;external&#34; target=&#34;_blank&#34; onclick=&#34;leaveNotice()&#34;
+&gt;
+Katex
+&lt;/a&gt;.
 
 
   &lt;section&gt;

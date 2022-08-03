@@ -1,13 +1,6 @@
 /* Nothing here yet, (This file is waiting your customizations) */
 
 
-#nistfootergoeshere a:link {
-    text-shadow: none;
-}
-
-#nistfootergoeshere footer,div,ul {
-    width: 100%;
-}
 
 body {
     width: 100%;
@@ -18,14 +11,25 @@ article {
     margin-right: 5%;
 }
 
-.brand {
-    margin-left: 0;
-    line-height: 1.5;
+.nist-header a:link {
+    background: #000;
 }
 
-header h1, h2 {
-    /* margin: 10; */
-    line-height: 1.25;
+.nist-footer {
+    width: 100%;
+    background-color: #333;
+}
+
+.nist-footer ul {
+    width: 100%;
+}
+
+.nist-footer a:link {
+    background: #333;
+}
+
+.nist-footer a {
+    text-shadow: none;
 }
 
 .brand {
@@ -37,11 +41,11 @@ nav.menu ul {
     width: 100%;
 }
 
+header.brand h1, h2 {
+    line-height: 1.25;
+}
+
 header.brand hr {
     margin:auto;
     width:100%;
-}
-
-.nist-footer a {
-    background: #333;
 }

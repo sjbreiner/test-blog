@@ -87,6 +87,7 @@ body {
 .nist-footer a {
   color: white;
   text-decoration: none;
+  text-shadow: none;
 }
 
 .nist-footer .nist-footer__logo img {
