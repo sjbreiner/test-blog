@@ -9,6 +9,9 @@ of this theme.  One of them is $ \LaTeX $ via
 Katex
 .
 
+NIST link
+
+
 
   
 
@@ -76,9 +79,12 @@ Math is Fun
 <meta http-equiv="content-type" content="text/html; charset=windows-1252">
 
 <script>
-  function leaveNotice() {
-    confirm("Now leaving the ACT Blog")
+
+  function leaveNotice(link) {
+    return confirm("Now leaving the ACT Blog for\n" + link)
+    
   }
+
 </script>
 </head>
 <body ><header class="nist-header">
@@ -202,16 +208,23 @@ Math is Fun
 of this theme.  One of them is $ \LaTeX $ via <a 
 href="https://katex.org/"
 
- rel="external" target="_blank" onclick="leaveNotice()"
+ rel="external" target="_blank" onclick="return leaveNotice(&#34;https://katex.org/&#34;)"
 >
 Katex
-</a>.
+</a>.</p>
+<p><a 
+href="https://www.nist.gov/"
+
+ rel="external" target="_blank" onclick="return leaveNotice(&#34;https://www.nist.gov/&#34;)"
+>
+NIST link
+</a></p>
 
 
   <section>
 
     
-</p>
+
 <h2 id="a-bit-about-mathematics">A Bit About Mathematics</h2>
 <div class="epigraph">
 <blockquote>
