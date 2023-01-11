@@ -49,3 +49,7 @@ header.brand hr {
     margin:auto;
     width:100%;
 }
+
+h1.content-title {
+    font-size: 3rem;
+}

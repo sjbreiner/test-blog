@@ -6,7 +6,7 @@
     <description>Recent content in Categories on ACT Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jul 2021 13:56:01 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 09 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sjbreiner.github.io/test-blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>katex</title>
       <link>https://sjbreiner.github.io/test-blog/categories/katex/</link>
-      <pubDate>Tue, 20 Jul 2021 13:56:01 -0800</pubDate>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://sjbreiner.github.io/test-blog/categories/katex/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>latex</title>
       <link>https://sjbreiner.github.io/test-blog/categories/latex/</link>
-      <pubDate>Tue, 20 Jul 2021 13:56:01 -0800</pubDate>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://sjbreiner.github.io/test-blog/categories/latex/</guid>
       <description></description>
@@ -32,36 +32,9 @@
     <item>
       <title>tufte-css</title>
       <link>https://sjbreiner.github.io/test-blog/categories/tufte-css/</link>
-      <pubDate>Tue, 20 Jul 2021 13:56:01 -0800</pubDate>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://sjbreiner.github.io/test-blog/categories/tufte-css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fun</title>
-      <link>https://sjbreiner.github.io/test-blog/categories/fun/</link>
-      <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://sjbreiner.github.io/test-blog/categories/fun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://sjbreiner.github.io/test-blog/categories/hugo/</link>
-      <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://sjbreiner.github.io/test-blog/categories/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://sjbreiner.github.io/test-blog/categories/test/</link>
-      <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://sjbreiner.github.io/test-blog/categories/test/</guid>
       <description></description>
     </item>
     
